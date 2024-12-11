@@ -1,0 +1,46 @@
+
+7-Zip 21.07 (x64) : Copyright (c) 1999-2021 Igor Pavlov : 2021-12-26
+
+Scanning the drive for archives:
+1 file, 53631 bytes (53 KiB)
+
+Listing archive: helloneb340b.zip
+
+--
+Path = helloneb340b.zip
+Type = zip
+Physical Size = 53631
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2024-12-11 07:24:59 D....            0            2  helloneb340b
+2024-12-11 07:24:59 .....           34           36  helloneb340b\settings.gradle
+2024-12-11 07:24:59 .....          444          242  helloneb340b\.gitignore
+2024-12-11 07:24:59 D....            0            2  helloneb340b\gradle
+2024-12-11 07:24:59 D....            0            2  helloneb340b\gradle\wrapper
+2024-12-11 07:24:59 .....          253          153  helloneb340b\gradle\wrapper\gradle-wrapper.properties
+2024-12-11 07:24:59 .....        43583        38865  helloneb340b\gradle\wrapper\gradle-wrapper.jar
+2024-12-11 07:24:59 .....         2695          812  helloneb340b\HELP.md
+2024-12-11 07:24:59 .....         8762         3726  helloneb340b\gradlew
+2024-12-11 07:24:59 .....           54           44  helloneb340b\.gitattributes
+2024-12-11 07:24:59 .....         2966         1239  helloneb340b\gradlew.bat
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\test
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\test\java
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\test\java\com
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\test\java\com\ashburncode
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\test\java\com\ashburncode\helloneb340b
+2024-12-11 07:24:59 .....          226          159  helloneb340b\src\test\java\com\ashburncode\helloneb340b\Helloneb340bApplicationTests.java
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\resources
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\resources\templates
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\resources\static
+2024-12-11 07:24:59 .....           37           39  helloneb340b\src\main\resources\application.properties
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\java
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\java\com
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\java\com\ashburncode
+2024-12-11 07:24:59 D....            0            2  helloneb340b\src\main\java\com\ashburncode\helloneb340b
+2024-12-11 07:24:59 .....          333          178  helloneb340b\src\main\java\com\ashburncode\helloneb340b\Helloneb340bApplication.java
+2024-12-11 07:24:59 .....         1465          488  helloneb340b\build.gradle
+------------------- ----- ------------ ------------  ------------------------
+2024-12-11 07:24:59              60852        46015  12 files, 17 folders
